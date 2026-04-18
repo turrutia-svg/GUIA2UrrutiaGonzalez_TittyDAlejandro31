@@ -1,4 +1,4 @@
-Algoritmo Ejercicio_1CasaPSEINT
+Algoritmo Ejercicio1
     Definir anguloGrados, anguloRadianes Como Real
     Definir opcion Como Entero
     Escribir "Ingrese el angulo en grados: "
