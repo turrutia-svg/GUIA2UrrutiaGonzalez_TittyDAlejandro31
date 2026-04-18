@@ -19,7 +19,7 @@ Algoritmo Ejercicio3
 		3: precio = 75
 		4: precio = 50
 		De Otro Modo:
-			Escribir "Sector no v�lido"
+			Escribir "Sector no valido"
 			precio = 0
 	FinSegun
 	
