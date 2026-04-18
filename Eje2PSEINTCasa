@@ -1,4 +1,4 @@
-Algoritmo Ejercicio_2CasaPSEINT
+Algoritmo Ejercicio2
 	Definir car Como Caracter
 	Escribir "Ingrese un caracter: "
 	Leer car
