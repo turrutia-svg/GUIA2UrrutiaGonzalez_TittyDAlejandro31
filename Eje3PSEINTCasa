@@ -1,4 +1,4 @@
-Algoritmo Ejercicio_3CasaPSEINT
+Algoritmo Ejercicio3
 	Definir sector, cantidad Como Entero
 	Definir precio, total Como Real
 	
